@@ -73,7 +73,7 @@ window = Tk()
 window.title("Text editor program")
 file = None
 
-window_width = 500
+window_width = 500 #our dimensions
 window_height = 500
 screen_width =window.winfo_screenwidth()
 screen_height = window.winfo_screenwidth()
